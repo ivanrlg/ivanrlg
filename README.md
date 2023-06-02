@@ -1,15 +1,20 @@
 ### Hi there 👋
 
-My name is Ivan Labrador, I am a Systems Engineer, passionate developer for Business Central and Navision.
+I'm Ivan Labrador! I'm a Systems Engineer with a passion for developing solutions in Business Central and Navision.
 
-<li>I also do developments in Xamarin and Arduino.</li>
+**Professional Skills**
 
-<li>I like to play guitar <g-emoji class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1F3B8">🎸</g-emoji>, go hiking <g-emoji class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f97e.png?v8">🥾</g-emoji>, love sunsets<g-emoji class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f307.png?v8">🌇</g-emoji> and the movies <g-emoji class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png?v8">🎥</g-emoji>.</li>
+* Expertise in Business Central and Navision development.
+* Experience in Xamarin and Arduino.
+* Blogger at [IvanSingleton.Dev](https://ivansingleton.dev), writing about Business Central, Xamarin, and Arduino.
 
+**Personal Interests**
 
-<li>I recently started writing a blog about developments related to Business Central, Xamarin and Arduino. <a href="https://ivansingleton.dev/" rel="nofollow">https://ivansingleton.dev/</a></li>
+* Playing the 🎸 guitar.
+* Hiking 🥾 in the great outdoors.
+* Enjoying sunsets 🌇 and film 🎥.
 
-
+I love leveraging my unique blend of skills to solve complex problems and create innovative solutions. Feel free to reach out if you're interested in collaboration or just want to chat about tech!
 
 
 ### Technology Stack
