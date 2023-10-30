@@ -25,6 +25,12 @@ I love leveraging my unique blend of skills to solve complex problems and create
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="CSharp" rel="nofollow"><img src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg" alt="docker" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://www.docker.com/" title="docker" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px" style="max-width: 100%;"></a>
 
+### :bar_chart: &nbsp;GitHub Analytics
+<div>
+    <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NovoaDev&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+    <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NovoaDev&layout=compact&langs_count=8&theme=graywhite"/>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ivanlabrador/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
