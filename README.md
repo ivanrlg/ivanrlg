@@ -4,14 +4,14 @@ I specialize in developing innovative solutions within Business Central and Navi
 
 **Professional Skills**
 
-* Business Central and Navision Development
-* Xamarin and Arduino Applications
+* Business Central and Navision Development.
+* Maui, Xamarin and Arduino Applications.
 * Technical Blogging at [IvanSingleton.Dev](https://ivansingleton.dev)
 
 **Personal Interests**
 
-* Strumming the 🎸 guitar
-* Hiking 🥾 the great outdoors
+* Strumming the 🎸 guitar.
+* Hiking 🥾 the great outdoors.
 * Enjoying sunsets 🌇 and film 🎥
 
 ### Technology Stack
