@@ -2,17 +2,39 @@
 
 I specialize in developing innovative solutions within Business Central and Navision environments. With a solid background in Xamarin and Arduino, I thrive on tackling complex problems and creating value through tailored software solutions.
 
+**About Me**
+
+I am a Systems Engineer with extensive experience specializing in Dynamics NAV and Business Central module development since 2015. My professional journey has been marked by a deep commitment to crafting tailored solutions and verticalization for diverse business processes. By leveraging tools such as Power BI, Power Automate, and the Azure platform, I enhance and support robust business solutions.
+
 **Professional Skills**
 
-* Business Central and Navision Development.
-* Maui, Xamarin and Arduino Applications.
-* Technical Blogging at [IvanSingleton.Dev](https://ivansingleton.dev)
+- **ERP Development**:
+  - Development of extensions and customizations for Business Central.
+  - Integration of Business Central with other systems using APIs and web services.
+  - Creation of custom reports and dashboards in Business Central.
+- **Integration and Development**:
+  - Web service development for ERP and mobile application integration.
+  - Expertise in electronic invoicing integration in Latin America.
+  - Integration of devices like fiscal printers and signature reading tablets.
+- **Business Intelligence and Automation**:
+  - Proficient in Power BI for data visualization and analytics.
+  - Experienced in Power Automate for workflow automation and process improvement.
+- **Mobile and Desktop Applications**:
+  - Development of cross-platform applications using the .NET framework and Xamarin.
+- **Certifications**:
+  - Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate
+  - Microsoft Certified: Dynamics 365 Business Central Developer Associate
 
 **Personal Interests**
 
-* Strumming the 🎸 guitar.
-* Hiking 🥾 the great outdoors.
-* Enjoying sunsets 🌇 and film 🎥
+- **Strumming the Guitar**: Passionate about playing the 🎸 guitar.
+- **Hiking**: Enjoy exploring the great outdoors 🥾.
+- **Film Enthusiast**: Love watching sunsets 🌇 and enjoying movies 🎥.
+- **Arduino Projects**: Continuously expanding my skill set with Arduino projects.
+
+**Technical Blogging**
+
+- Sharing insights and solutions at [IvanSingleton.Dev](https://ivansingleton.dev)
 
 ### Technology Stack
 
@@ -25,14 +47,16 @@ I specialize in developing innovative solutions within Business Central and Navi
 ### GitHub Analytics
 
 <div>
-    <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NovoaDev&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-    <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NovoaDev&layout=compact&langs_count=8&theme=graywhite"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NovoaDev&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NovoaDev&layout=compact&langs_count=8&theme=graywhite"/>
 </div>
 
-<h3 align="left">Let's Connect:</h3>
+### Let's Connect:
+
 <p align="left">
-<a href="https://www.linkedin.com/in/ivanlabrador/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://twitter.com/ivansingletonve" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/ivanlabrador/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+    <a href="https://twitter.com/ivansingletonve" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=ivanrlg&style=flat-square)
 
