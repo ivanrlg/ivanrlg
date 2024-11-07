@@ -22,8 +22,8 @@ I am a Systems Engineer with extensive experience specializing in Dynamics NAV a
 - **Mobile and Desktop Applications**:
   - Development of cross-platform applications using the .NET framework and Xamarin.
 - **Certifications**:
-  - Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate
-  - Microsoft Certified: Dynamics 365 Business Central Developer Associate
+  - [Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate](https://learn.microsoft.com/api/credentials/share/en-us/IvanLabrador-4807/AC2B978010CF470F?sharingId=E95B6925542ADA16)
+  - [Microsoft Certified: Dynamics 365 Business Central Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/IvanLabrador-4807/C2D2D2D2C6AAAC2C?sharingId=E95B6925542ADA16)
 
 **Personal Interests**
 
