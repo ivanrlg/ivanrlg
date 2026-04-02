@@ -1,65 +1,61 @@
-### Hello, I'm Ivan Labrador - Systems Engineer & Business Central Enthusiast 👋
+### Hello, I'm Ivan Labrador 👋
 
-I specialize in developing innovative solutions within Business Central and Navision environments. With a solid background in Xamarin and Arduino, I thrive on tackling complex problems and creating value through tailored software solutions.
+**Senior Functional & Technical Consultant** specializing in Dynamics 365 Business Central at a Microsoft Partner. Systems Engineer with 10+ years in the Microsoft Dynamics ecosystem (NAV/BC), certified MB-800 and MB-820. I build ERP extensions in AL, integrate with Azure OpenAI/Copilot, and ship full-stack products with .NET 10, Blazor, and .NET MAUI.
 
-**About Me**
+**What I Do**
 
-I am a Systems Engineer with extensive experience specializing in Dynamics NAV and Business Central module development since 2015. My professional journey has been marked by a deep commitment to crafting tailored solutions and verticalization for diverse business processes. By leveraging tools such as Power BI, Power Automate, and the Azure platform, I enhance and support robust business solutions.
+- 🏢 Consulting for 7+ active clients: implementations, migrations (NAV 2013→BC V25), custom AL extensions, and daily support.
+- 🤖 Designing AI-powered solutions for Business Central using Azure OpenAI (route optimization, intelligent chatbots, predictive analytics).
+- 🔧 Maintaining CI/CD pipelines with AL-Go for GitHub, automating build, test, and deployment for the entire team.
+- 📱 Building cross-platform apps with .NET MAUI (Android/iOS), including offline-capable WMS and mobile POS.
+- 🌐 Integrating ERP with banking systems (SFTP/NACHA, SEPA), Azure IoT, Microsoft Graph API, and Telegram bots.
 
-**Professional Skills**
+**Featured Projects**
 
-- **ERP Development**:
-  - Development of extensions and customizations for Business Central.
-  - Integration of Business Central with other systems using APIs and web services.
-  - Creation of custom reports and dashboards in Business Central.
-- **Integration and Development**:
-  - Web service development for ERP and mobile application integration.
-  - Expertise in electronic invoicing integration in Latin America.
-  - Integration of devices like fiscal printers and signature reading tablets.
-- **Business Intelligence and Automation**:
-  - Proficient in Power BI for data visualization and analytics.
-  - Experienced in Power Automate for workflow automation and process improvement.
-- **Mobile and Desktop Applications**:
-  - Development of cross-platform applications using the .NET framework and Xamarin.
-- **Certifications**:
-  - [Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate](https://learn.microsoft.com/api/credentials/share/en-us/IvanLabrador-4807/AC2B978010CF470F?sharingId=E95B6925542ADA16)
-  - [Microsoft Certified: Dynamics 365 Business Central Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/IvanLabrador-4807/C2D2D2D2C6AAAC2C?sharingId=E95B6925542ADA16)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Plur-e** | Mobile extension for Business Central: WMS, inventory, sales, manufacturing, and integrated payments with online/offline support for Android. | AL, .NET MAUI |
+| **Plur-e AI** | Intelligent chatbots for Business Central: delivery route optimization and automated business process assistance. | AL, Azure OpenAI |
+| [**TerraML**](https://github.com/ivanrlg/TerraML) | Satellite image classifier based on Fuzzy Logic. Spectral band processing for automatic land cover classification. Based on my 2008 thesis at Universidad de Los Andes, Venezuela. | C#, .NET 10 |
+| **SmartHydro** | IoT system with Arduino for water tank automation, flow detection, and consumption accounting. Telemetry integrated with Business Central. | Arduino, Azure IoT Hub, Azure Functions |
+
+**Certifications**
+
+- [Microsoft Certified: Dynamics 365 Business Central Developer Associate (MB-820)](https://learn.microsoft.com/api/credentials/share/en-us/IvanLabrador-4807/C2D2D2D2C6AAAC2C?sharingId=E95B6925542ADA16) — 2024
+- [Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate (MB-800)](https://learn.microsoft.com/api/credentials/share/en-us/IvanLabrador-4807/AC2B978010CF470F?sharingId=E95B6925542ADA16) — 2023
+
+**Tech Stack**
+
+<a href="https://github.com/microsoft/AL" title="AL"><img src="https://img.shields.io/badge/-AL-0078D4?style=flat-square&logoColor=white" alt="AL"></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"></a>
+<a href="https://dotnet.microsoft.com/" title=".NET 10"><img src="https://img.shields.io/badge/-.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10"></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/maui" title=".NET MAUI"><img src="https://img.shields.io/badge/-.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET MAUI"></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" title="Blazor"><img src="https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor"></a>
+<a href="https://azure.microsoft.com/" title="Azure"><img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"></a>
+<a href="https://azure.microsoft.com/en-us/products/ai-services/openai-service" title="Azure OpenAI"><img src="https://img.shields.io/badge/-Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure OpenAI"></a>
+<a href="https://www.docker.com/" title="Docker"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"></a>
+<a href="https://www.microsoft.com/en-us/sql-server" title="SQL Server"><img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"></a>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+<a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"></a>
+<a href="https://www.arduino.cc/" title="Arduino"><img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"></a>
+
+**GitHub Analytics**
+
+<div>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ivanrlg&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ivanrlg&layout=compact&langs_count=8&theme=graywhite"/>
+</div>
 
 **Personal Interests**
 
-- **Strumming the Guitar**: Passionate about playing the 🎸 guitar.
-- **Hiking**: Enjoy exploring the great outdoors 🥾.
-- **Film Enthusiast**: Love watching sunsets 🌇 and enjoying movies 🎥.
-- **Arduino Projects**: Continuously expanding my skill set with Arduino projects.
+🎸 Guitar · 🥾 Hiking · 🎥 Movies · 🔌 Arduino & IoT projects
 
-**Technical Blogging**
-
-- Sharing insights and solutions at [IvanSingleton.Dev](https://ivansingleton.dev)
-
-### Technology Stack
-
-<a href="https://github.com/microsoft/AL" title="AL" rel="nofollow"><img src="https://img.shields.io/badge/-AL-blue?style=flat-square" alt="AL" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://dotnet.microsoft.com/en-us/apps/xamarin" title="Xamarin" rel="nofollow"><img src="https://github.com/get-icon/geticon/blob/master/icons/xamarin.svg" alt="Xamarin" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://azure.microsoft.com/" title="Azure" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="Azure" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="CSharp" rel="nofollow"><img src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg" alt="CSharp" width="21px" height="21px" style="max-width: 100%;"></a>
-<a href="https://www.docker.com/" title="Docker" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="Docker" width="21px" height="21px" style="max-width: 100%;"></a>
-
-### GitHub Analytics
-
-<div>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NovoaDev&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NovoaDev&layout=compact&langs_count=8&theme=graywhite"/>
-</div>
-
-### Let's Connect:
+**Let's Connect**
 
 <p align="left">
     <a href="https://www.linkedin.com/in/ivanlabrador/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
     <a href="https://twitter.com/ivansingletonve" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+    <a href="https://ivansingleton.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Blog" height="30" width="40" /></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=ivanrlg&style=flat-square)
-
-<!--
-**ivanrlg/ivanrlg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
